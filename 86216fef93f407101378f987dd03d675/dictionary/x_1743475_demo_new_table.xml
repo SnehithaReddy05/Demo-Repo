@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="d34fe3eb937807101378f987dd03d6b7" label="new_table" max_length="40" name="x_1743475_demo_new_table" type="collection">
+        <element label="NAME" max_length="40" name="name" type="string"/>
+        <element label="hello" max_length="40" name="hello" type="string"/>
+        <element label="new" max_length="40" name="new" type="string"/>
+    </element>
+</database>
